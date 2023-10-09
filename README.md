@@ -19,6 +19,7 @@ With over 2 years of experience, I have honed my skills in full-stack developmen
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&labelColor=101010)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=plastic&logo=.net&logoColor=white&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=101010)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&labelColor=101010)
 
 ### Database
