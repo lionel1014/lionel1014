@@ -4,7 +4,7 @@ I'm a full-stack developer with a passion for education. I constantly seek learn
 
 ## 💼 Professional Experience
 
-With over 2 years of experience, I have honed my skills in full-stack development, specializing in **Angular** and **.NET Core**. I'm passionate about building robust and scalable web applications and continuously exploring new technologies to enhance my expertise.
+With over 3 years of experience, I have honed my skills in full-stack development, specializing in **Angular** and **.NET Core**. I'm passionate about building robust and scalable web applications and continuously exploring new technologies to enhance my expertise.
 
 ## Skills
 
